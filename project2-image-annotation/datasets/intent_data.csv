@@ -1,0 +1,11 @@
+id,text,intent
+1,"Book me a flight to Mumbai for tomorrow morning.",Book_Flight
+2,"What is the weather like in Chennai today?",Check_Weather
+3,"Set an alarm for 6 AM tomorrow.",Set_Alarm
+4,"Play some relaxing music please.",Play_Music
+5,"Remind me to call mom at 5 PM.",Set_Reminder
+6,"Order a large pepperoni pizza from Dominos.",Order_Food
+7,"Navigate to the nearest petrol station.",Navigation
+8,"What time does the HDFC bank close today?",Business_Hours_Query
+9,"Turn off the bedroom lights.",Smart_Home_Control
+10,"Search for Python tutorials on YouTube.",Web_Search

@@ -1,0 +1,11 @@
+id,text,sentiment
+1,"The food was absolutely amazing, best restaurant I've visited in years!",Positive
+2,"Terrible service, waited 45 minutes and no one came to take our order.",Negative
+3,"The product works fine but nothing special about it.",Neutral
+4,"I'm so disappointed, the package arrived damaged and customer support was unhelpful.",Negative
+5,"Excellent quality, fast delivery, will definitely order again!",Positive
+6,"It's okay. Does what it says. Nothing more, nothing less.",Neutral
+7,"Worst experience of my life. Complete waste of money.",Negative
+8,"The staff was incredibly friendly and made our visit memorable.",Positive
+9,"Average product, average price. Not bad, not great.",Neutral
+10,"Outstanding! Exceeded all my expectations in every way possible!",Positive
